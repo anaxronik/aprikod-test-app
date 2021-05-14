@@ -1,5 +1,7 @@
 Для запуска клонировать репозиторий и ввести npm run start
 
+Попробовать можно https://aprikod-test-app.vercel.app/
+
 ТУДУЛИСТ:
 стек: react, mobx
 стили: node-sass
