@@ -48,20 +48,16 @@ body {
   }
 
   &__textarea,
-  &__title {
-    // margin-top: 10px;
+  &__input {
     width: 100%;
     border: none;
     outline: none;
     padding: 10px 20px;
     border-radius: 5px;
-    // :focus {
-    //   background-color: red;
-    //   border: none;
-    // }
   }
 
   &__types {
+    margin-bottom: 10px;
   }
 
   &__add-type {
