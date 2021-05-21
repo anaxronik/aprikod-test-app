@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { observer } from 'mobx-react-lite'
 
 import { Store } from '../store/index'
-import { TodoType } from '../store/Todo'
+import { TodoType } from '../store/Todo/Todo'
 import Input from './Input'
 import TextArea from './TextArea'
 import TodoTypes from './TodoTypes'

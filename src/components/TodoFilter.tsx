@@ -1,6 +1,6 @@
 import React from 'react'
 import { observer } from 'mobx-react-lite'
-import { TodoType } from '../store/Todo'
+import { TodoType } from '../store/Todo/TodoType'
 import TypeButton from './TypeButton'
 
 export interface ITodoFilter {

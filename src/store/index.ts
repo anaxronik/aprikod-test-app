@@ -1,4 +1,4 @@
-import { TodoStore } from './Todo'
+import { TodoStore } from './Todo/TodoStore'
 
 export class Store {
   todoStore: TodoStore

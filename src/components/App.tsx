@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { observer } from 'mobx-react-lite'
 
 import { Store } from '../store/index'
-import { Todo, TodoType } from '../store/Todo'
+import { Todo, TodoType } from '../store/Todo/Todo'
 import AddTodo from './AddTodo'
 import TodoListBlock from './TodoListBLock'
 

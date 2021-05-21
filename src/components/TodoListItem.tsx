@@ -1,5 +1,5 @@
 import React from 'react'
-import { Todo } from '../store/Todo'
+import { Todo } from '../store/Todo/Todo'
 import TypeButton from './TypeButton'
 import { observer } from 'mobx-react-lite'
 

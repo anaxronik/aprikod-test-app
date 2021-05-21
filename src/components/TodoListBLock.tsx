@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 import { observer } from 'mobx-react-lite'
 
 import { Store } from '../store'
-import { TodoType } from '../store/Todo'
 import TodoFilter from './TodoFilter'
 import TodoList from './TodoList'
+import { TodoType } from '../store/Todo/TodoType'
 
 export interface ITodoListProps {
   store: Store

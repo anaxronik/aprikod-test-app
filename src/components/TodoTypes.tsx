@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { TodoType } from '../store/Todo'
+import { TodoType } from '../store/Todo/Todo'
 import TypeButton from './TypeButton'
 import { observer } from 'mobx-react-lite'
 
